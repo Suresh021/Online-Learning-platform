@@ -3,7 +3,7 @@ const courses = [
   { id: 1, name: "Java Fundamentals", completed: false },
   { id: 2, name: "CSS Fundamentals", completed: false },
   { id: 3, name: "JavaScript Basics", completed: false },
-  { id: 4, name: "Frontend Project", completed: false }
+  { id: 4, name: "Streamlit Course", completed: false }
 ];
 
 // Function to display courses
