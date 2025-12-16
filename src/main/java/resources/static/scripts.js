@@ -1,6 +1,6 @@
 // Hardcoded course data
 const courses = [
-  { id: 1, name: "Java Basics", completed: false },
+  { id: 1, name: "HTML Basics", completed: false },
   { id: 2, name: "CSS Fundamentals", completed: false },
   { id: 3, name: "JavaScript Basics", completed: false },
   { id: 4, name: "Frontend Project", completed: false }
